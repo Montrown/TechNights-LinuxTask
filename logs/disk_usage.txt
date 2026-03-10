@@ -1,0 +1,11 @@
+Filesystem     1K-blocks     Used Available Use% Mounted on
+tmpfs            1509532     2104   1507428   1% /run
+/dev/sda5       95536548 15733228  74904096  18% /
+tmpfs            3773824        0   3773824   0% /dev/shm
+efivarfs             256       80       172  32% /sys/firmware/efi/efivars
+tmpfs               1024        0      1024   0% /run/credentials/systemd-journald.service
+tmpfs               5120       12      5108   1% /run/lock
+tmpfs               1024        0      1024   0% /run/credentials/systemd-resolved.service
+tmpfs            3773824        8   3773816   1% /tmp
+/dev/sda1          98304    32284     66020  33% /boot/efi
+tmpfs             754764      100    754664   1% /run/user/1000
